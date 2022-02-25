@@ -1,0 +1,1 @@
+E:\TestGradle\stand-gradle-plugin\build\classes\kotlin\main\com\bfcy\gradle\StandGradlePlugin.class
