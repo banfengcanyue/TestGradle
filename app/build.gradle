@@ -10,7 +10,7 @@ plugins {
     id 'com.android.application'
     id 'org.jetbrains.kotlin.android'
     id 'com.bfcy.gradle.buildSrc'
-//    id 'com.bfcy.gradle.stand'
+    id 'com.bfcy.gradle.stand'
 }
 
 // 方式1. 直接在 build.gradle 中写插件，并引用
