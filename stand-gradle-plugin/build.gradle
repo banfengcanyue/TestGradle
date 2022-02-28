@@ -21,9 +21,7 @@ repositories {
     mavenCentral()
 }
 
-dependencies {
-    implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.6.10"
-}
+
 
 //本地依赖插件时使用
 gradlePlugin {
@@ -67,4 +65,8 @@ publishing {
             url = uri('../repo')
         }
     }
+}
+
+dependencies {
+    implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.6.10"
 }
