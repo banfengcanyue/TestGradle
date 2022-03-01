@@ -1,8 +1,6 @@
 apply plugin: 'kotlin'
-
 //java-gradle插件
 apply plugin: 'java-gradle-plugin'
-
 apply plugin: 'maven-publish'
 
 buildscript {
